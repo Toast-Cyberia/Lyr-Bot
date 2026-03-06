@@ -490,5 +490,4 @@ client.on('messageReactionRemove', async (reaction, user) => {
   }
 });
 
-//login
-client.login(DISCORD_TOKEN);  
+
